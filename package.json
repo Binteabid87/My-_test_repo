@@ -1,0 +1,12 @@
+{
+  "name": "my-_test_repo",
+  "version": "1.0.0",
+  "description": "\"# My-_test_repo\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
